@@ -1,0 +1,6 @@
+# Repo-local CODEOWNERS — Idea Forge
+# Core Team gates privileged automation/security files (§30.7).
+
+/.github/workflows/**  @Hidden-Alchemy/core
+/.github/CODEOWNERS    @Hidden-Alchemy/core
+/SECURITY.md           @Hidden-Alchemy/core
